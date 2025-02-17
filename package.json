@@ -1,0 +1,17 @@
+{
+  "name": "event-parcel-accessibility-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cypress": "^13.17.0",
+    "install": "^0.13.0",
+    "wick-a11y": "^1.4.0"
+  }
+}
